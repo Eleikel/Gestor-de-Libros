@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yAbGRh6QQy5NUP/FcYUibSdpbQscfDpFrxh4kamH5jEiBgM1DxSsOsLHKTO+H7s5sRyXRhALp7nAd1PD4+yeww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander Polanco\\source\\repos\\Library_Final\\Library.Infrastructure.Persistencee\\Library.Infrastructure.Persistencee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander Polanco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alexander Polanco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

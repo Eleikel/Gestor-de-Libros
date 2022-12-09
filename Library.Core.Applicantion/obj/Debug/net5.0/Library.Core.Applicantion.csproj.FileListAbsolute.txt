@@ -1,0 +1,45 @@
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.deps.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\bin\Debug\net5.0\ref\Library.Core.Applicantion.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.AssemblyReference.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.AssemblyInfoInputs.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.AssemblyInfo.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\ref\Library.Core.Applicantion.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.CopyComplete
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.deps.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.AssemblyReference.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.AssemblyInfoInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.AssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.CoreCompileInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.CopyComplete
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\refint\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\ref\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.deps.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.AssemblyReference.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.AssemblyInfoInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.AssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.CoreCompileInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.csproj.CopyComplete
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\refint\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Core.Applicantion\obj\Debug\net5.0\ref\Library.Core.Applicantion.dll

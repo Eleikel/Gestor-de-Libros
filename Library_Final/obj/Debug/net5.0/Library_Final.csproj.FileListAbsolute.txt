@@ -1,0 +1,264 @@
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\appsettings.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.exe
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.deps.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.runtimeconfig.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.runtimeconfig.dev.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\ref\Library_Final.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.Views.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library_Final.Views.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.csproj.AssemblyReference.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.AssemblyInfoInputs.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.AssemblyInfo.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.RazorAssemblyInfo.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.RazorAssemblyInfo.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\staticwebassets\Library_Final.StaticWebAssets.Manifest.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\staticwebassets\Library_Final.StaticWebAssets.xml
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\scopedcss\bundle\Library_Final.styles.css
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.TagHelpers.input.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.TagHelpers.output.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.RazorCoreGenerate.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.RazorTargetAssemblyInfo.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.RazorTargetAssemblyInfo.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.Views.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.csproj.CopyComplete
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\ref\Library_Final.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\obj\Debug\net5.0\Library_Final.genruntimeconfig.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library_Final\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\appsettings.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.StaticWebAssets.xml
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.exe
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.deps.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.runtimeconfig.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.runtimeconfig.dev.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.Views.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.Views.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.csproj.AssemblyReference.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.AssemblyInfoInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.AssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.csproj.CoreCompileInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorAssemblyInfo.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorAssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\scopedcss\bundle\Library_Final.styles.css
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\staticwebassets\Library_Final.StaticWebAssets.Manifest.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.TagHelpers.input.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.TagHelpers.output.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorCoreGenerate.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorTargetAssemblyInfo.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorTargetAssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.Views.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.csproj.CopyComplete
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\refint\Library_Final.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.genruntimeconfig.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\ref\Library_Final.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Book\SaveBook.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\appsettings.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.StaticWebAssets.xml
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.exe
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.deps.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.runtimeconfig.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.runtimeconfig.dev.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.Views.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library_Final.Views.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.csproj.AssemblyReference.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.AssemblyInfoInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.AssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.csproj.CoreCompileInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorAssemblyInfo.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorAssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\scopedcss\bundle\Library_Final.styles.css
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\staticwebassets\Library_Final.StaticWebAssets.Manifest.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.TagHelpers.input.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.TagHelpers.output.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorCoreGenerate.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Book\SaveBook.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorTargetAssemblyInfo.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.RazorTargetAssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.Views.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.csproj.CopyComplete
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\refint\Library_Final.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\Library_Final.genruntimeconfig.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library_Final\obj\Debug\net5.0\ref\Library_Final.dll

@@ -1,0 +1,60 @@
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.deps.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.runtimeconfig.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.runtimeconfig.dev.json
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\ref\Library.Infrastructure.Persistence.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\ref\Library.Infrastructure.Persistence.dll
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Alexander Polanco\source\repos\Library_Final\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.genruntimeconfig.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.deps.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.runtimeconfig.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.runtimeconfig.dev.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\refint\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.genruntimeconfig.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Libreria\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\ref\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.deps.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.runtimeconfig.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.runtimeconfig.dev.json
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Applicantion.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Domain.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Applicantion.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\bin\Debug\net5.0\Library.Core.Domain.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\refint\Library.Infrastructure.Persistence.dll
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.pdb
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\Library.Infrastructure.Persistence.genruntimeconfig.cache
+C:\Users\Esleiker\Desktop\ITLA\Ingenieria de Software\Prueba\proyecto_Final_Ing_Software\Library.Infrastructure.Persistence1\obj\Debug\net5.0\ref\Library.Infrastructure.Persistence.dll
